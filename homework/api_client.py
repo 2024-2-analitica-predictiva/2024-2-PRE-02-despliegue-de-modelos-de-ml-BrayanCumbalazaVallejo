@@ -7,7 +7,7 @@ import requests
 
 def make_request():
     """Make a request to the API server"""
-
+    #para abrirlo desde el navegador
     url = "http://127.0.0.1:5000"
 
     data = {
